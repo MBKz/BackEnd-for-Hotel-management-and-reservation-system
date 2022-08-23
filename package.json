@@ -1,0 +1,30 @@
+{
+  "name": "Reservation_system_v1.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "firebase-admin": "^9.11.0",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.1.1",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "mysql-import": "^5.0.21",
+    "mysql2": "^2.2.5",
+    "mysqldump": "^3.2.0",
+    "nodemailer": "^6.6.3",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "sequelize": "^6.6.2",
+    "winston": "^2.4.0"
+  }
+}
